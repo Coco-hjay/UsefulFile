@@ -1,3 +1,3 @@
 select * from dual;
 
-truncate table tab1;
+select 111;
